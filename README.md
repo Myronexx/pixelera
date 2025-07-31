@@ -30,8 +30,8 @@ Click or tab: Place Pixel
 Checkout repository
 
 ```
-git clone https://git.pixelplanet.fun/ppfun/pixelplanet.git
-cd pixelplanet
+git clone [https://git.pixelplanet.fun/ppfun/pixelplanet.git](https://github.com/Myronexx/pixelera.git)
+cd pixelera
 ```
 
 Install packages and build
@@ -167,6 +167,7 @@ npm install -g pm2
 3. Start with 
 
 ```
+cd dist
 pm2 start ecosystem.yml
 ```
 
@@ -271,7 +272,7 @@ The language definitions in `i18n/template.pot` and `i18n/template-ssr.pot` get 
 To build only specific languages, you can define them with the `--langs` flag:
 
 ```
-npm run build -- --langs de,gr
+npm run build -- --langs tr,en
 ```
 
 You can use `npm run babel-node ./utils/script.js` to execute a script with local babel (path always relative to the root directory).
