@@ -30,7 +30,7 @@ Click or tab: Place Pixel
 Checkout repository
 
 ```
-git clone [https://git.pixelplanet.fun/ppfun/pixelplanet.git](https://github.com/Myronexx/pixelera.git)
+git clone https://github.com/Myronexx/pixelera.git
 cd pixelera
 ```
 
