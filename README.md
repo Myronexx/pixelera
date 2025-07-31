@@ -1,4 +1,4 @@
-# PixelPlanet.fun
+# PixEra.fun
 
 
 [![Guilded](https://img.shields.io/badge/Discord-Support-blue.svg)](https://pixelplanet.fun/guilded)
@@ -61,9 +61,9 @@ Configuration takes place in the environment variables that are defined in ecosy
 | HOST           | Own Host                 | "localhost"             |
 | REDIS_URL      | URL:PORT of redis server | "redis://localhost:6379"|
 | MYSQL_HOST     | MySql Host               | "localhost"             |
-| MYSQL_USER     | MySql User               | "pixelplanet"           |
+| MYSQL_USER     | MySql User               | "pixera"           |
 | MYSQL_PW       | MySql Password           | "sqlpassword"           |
-| MYSQL_DATABASE | MySql Database           | "pixelplanet"           |
+| MYSQL_DATABASE | MySql Database           | "pixera"           |
 
 #### Optional Configuration
 
